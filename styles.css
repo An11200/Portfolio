@@ -1,0 +1,121 @@
+.top-container 
+{
+    background-color:aliceblue;
+    padding-top: 80px; 
+    position: relative;
+}
+body{
+    margin:10px;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+h1{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-family: 'Merriweather',serif;
+    color: #66BFBF;
+    line-height: 0.5;
+}
+h2
+{
+    font-family: 'Merriweather',serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+h3
+{
+    font-family: 'Merriweather',serif;
+    font-size: 30px;
+    color: #11999E;
+    margin-bottom: 20px;
+}
+.middle-container
+{
+    background-color: whitesmoke;
+    padding-bottom: 50px;
+}
+
+.mountain
+{
+    padding-top: 20px;
+}
+.programmer
+{
+    padding-top: 20px;
+}
+.skill-row
+{
+    width: 50%;
+    margin:30px auto 30px auto;
+    text-align: left;
+    line-height: 2;
+}
+.technology
+{
+    float: left;
+    margin-right: 30px;
+}
+.programmer
+{
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    margin-top: 10px;
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #c5ebe8;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  p{
+    line-height: 2;
+  }
+  hr
+  {
+    border: dotted rgb(144, 139, 220) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+  .contact-me
+  {
+    width: 90%;
+    margin: 40px auto;
+  }
+  .bottom-container
+  {
+    padding: 50px 0 20px;
+  }
+  a
+  {
+    font-family: 'Merriweather',serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover
+  {
+    color: #c5ebe8;
+  }
